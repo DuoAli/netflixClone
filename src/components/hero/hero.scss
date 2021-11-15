@@ -1,0 +1,46 @@
+.hero {
+    color: #fff;
+    overflow: hidden;
+}
+
+.heroWatch {
+    display: flex;
+    justify-content: center;
+    margin: 5rem 5rem;
+    background-color: rgb(0, 0, 0);
+    margin: 5rem 0rem;
+    padding: 5rem 0rem;
+}
+
+.heroWatch h1 {
+    position: flex;
+    font-size: 3rem;
+    font-weight: 700;
+    padding: 8rem 0rem 2rem 0rem;
+}
+
+.heroWatch p {
+    font-size: 1.8rem;
+    font-weight: 700;
+}
+
+.heroDownload {
+    display: flex;
+    justify-content: center;
+    margin: 5rem 5rem;
+    background-color: rgb(0, 0, 0);
+    margin: 5rem 0rem;
+    padding: 8rem 0rem;
+}
+
+.heroDownload h1 {
+    position: flex;
+    font-size: 3rem;
+    font-weight: 700;
+    padding: 5rem 0rem 2rem 0rem;
+}
+
+.heroDownload p {
+    font-size: 1.8rem;
+    font-weight: 700;
+}
